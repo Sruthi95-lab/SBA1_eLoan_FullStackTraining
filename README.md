@@ -1,5 +1,6 @@
-eLoan application is an e-commerce app thet provides a facility for the customers to apply Loan online.
+eLoan application is an e-commerce app that provides a facility for the customers to apply Loan online.
       It has 2 modules user and admin.
+      
       User can apply,edit,track his loans
       Admin can view all the loans,reject,approve and edit loans.
 This project is a Java-Maven-SpringBoot-Web project.
