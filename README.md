@@ -14,10 +14,11 @@ This project is a Java-Maven-SpringBoot-Web project.
       f.)Tomcat server
 
 Below are the setups to run.
-1.) Clone/Download the project from the 'master' branch of repository.
-2.)Incase of IDE - Setup the project in eclipse by importing as Maven project.
-3.)make sure MySQL database is up and running.
-4.)Build the maven project by executing 'mvn install' command on pom.xml
-5.)
+      
+      1.) Clone/Download the project from the 'master' branch of repository.
+      2.)Incase of IDE - Setup the project in eclipse by importing as Maven project.
+      3.)make sure MySQL database is up and running.
+      4.)Build the maven project by executing 'mvn install' command on pom.xml
+      5.)
 
 
