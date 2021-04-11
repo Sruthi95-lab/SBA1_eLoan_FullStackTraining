@@ -3,7 +3,7 @@ eLoan application is an e-commerce app that provides a facility for the customer
       
       User can apply,edit,track his loans
       Admin can view all the loans,reject,approve and edit loans.
-This project is a Java-Maven-SpringBoot-Web project.
+This project is a Java-Maven-SpringMVC-Web project.
       
       To run this project you need following tools
       a.)Java
@@ -19,6 +19,6 @@ Below are the setups to run.
       2.)Incase of IDE - Setup the project in eclipse by importing as Maven project.
       3.)make sure MySQL database is up and running.
       4.)Build the maven project by executing 'mvn install' command on pom.xml
-      5.)
+      5.)Now navigate to 'http://localhost:8081/Eloan_App' to access the application.
 
 
