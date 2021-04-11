@@ -7,11 +7,10 @@ This project is a Java-Maven-ServletJSP-Web project.
       
       To run this project you need following tools
       a.)Java
-      b.)Spring-boot
-      c.)Eclipse (incase of IDE)
-      d.)MySQL Database
-      e.)Maven Setup
-      f.)Tomcat server
+      b.)Eclipse (incase of IDE)
+      c.)MySQL Database
+      d.)Maven Setup
+      e.)Tomcat server
 
 Below are the setups to run.
       
